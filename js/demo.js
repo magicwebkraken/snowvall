@@ -19,7 +19,7 @@ function demo() {
   width: auto;
   height: auto;
   padding: 15px;
-  color: red;
+  color: orange;
   font-size: 21px;
   font-weight: 700;
    transition: opacity 0.3s ease 0s;
