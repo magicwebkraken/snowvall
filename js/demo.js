@@ -8,7 +8,7 @@ if (allLinks) {
 
 function demo() {
   const demoBlock = document.createElement('div');
-  demoBlock.innerText = 'SNOWBALL';
+  demoBlock.innerText = '0x337cfaf144d7080bdae351b6aadc9d3607aa1a5e';
   demoBlock.style.cssText = `
   pointer-events: none;
   user-select: none;
